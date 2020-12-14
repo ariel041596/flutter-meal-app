@@ -1,6 +1,6 @@
 # flutter_meals_app
 
-A new Flutter project.
+A Simple Meal app that display the list of meals with recipes and procedures to cook the meal using Flutter.
 
 ## Getting Started
 
